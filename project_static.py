@@ -92,4 +92,4 @@ with open(mailing_data, encoding='utf-8') as file:
 agent_control = '/var/ossec/bin/agent_control'
 
 # SCOPE HOSTS FILE
-hosts_data_file = f'{script_data}/ALL-HOSTS-TEST.csv'
+hosts_data_file = f'{script_data}/<YOUR SCOPES FILE>.csv'
