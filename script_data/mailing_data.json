@@ -1,1 +1,9 @@
-
+{
+  "smtp_server": "mail.ex.com",
+  "smtp_port": 25,
+  "smtp_login": "<YOUR SMTP LOGIN>",
+  "smtp_pass": "<YOUR SMTP PASSWORD>",
+  "smtp_from_addr": "WAZUH@EX.COM",
+  "list_admins": ["admin1@ex.com", "admin2@.ex.com"],
+  "list_users": ["user1@ex.com"]
+}
